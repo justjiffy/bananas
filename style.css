@@ -8,10 +8,13 @@ body {
   margin: 0;
   height: 100vh;
   overflow: hidden;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
-.invitation {
-    background-color: rgba(255, 255, 255, 0.5);
+div {
+    background-color: rgba(255, 255, 255, 0.75);
     border: black 10px;
     border-style: double;
+    margin: 10px 5%;
+    padding: 25px;
 }
