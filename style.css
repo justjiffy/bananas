@@ -21,3 +21,7 @@ div {
     padding: 25px;
 }
 
+img {
+    width: 100%;
+    max-width: 250px;
+}
